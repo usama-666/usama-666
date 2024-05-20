@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Developer 👋
 
 <!--
 **usama-666/usama-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   Hi there 👋, I'm Usama Riaz Ansari
   <br>
 </h1>
-<h2>Experience in Crafting ⚙ Decentralized and Full Stack Web Application 😎</h2>
+<h2>Experienced in Crafting ⚙ Decentralized and Full Stack Web Application 😎</h2>
 <h3 class="text-center">Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.</h3>
 
 <p class="text-left mt-4"> <img src="https://komarev.com/ghpvc/?username=usama-666&label=Profile%20views&color=0e75b6&style=flat" alt="usama-666" /> </p>
