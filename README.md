@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**usama-666/usama-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Usama-Riaz/usama-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 class="text-center mt-8">🚀 usama-666's Skill Arsenal</h2>
+<h2 class="text-center mt-8">🚀 Usama Riaz Ansari Skill Arsenal</h2>
 
 ### 🚀 Projects
 - **Saw my projects at**: `https://ubiquitous-treacle-2e4ade.netlify.app/`
