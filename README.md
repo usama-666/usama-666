@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h2 class="text-center mt-8">🚀 Usama Riaz Ansari Skill Arsenal</h2>
 
 ### 🚀 Projects
-- **Saw my projects at**: `https://ubiquitous-treacle-2e4ade.netlify.app/`
+- **Saw my projects at**: `https://usama-six.vercel.app`
 
 ### 🌟 Main Technology
 - `React JS | Node JS`
